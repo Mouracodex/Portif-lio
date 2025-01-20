@@ -13,7 +13,6 @@ Este é o meu portfólio online, criado para compartilhar minhas habilidades, pr
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript**  
 
 ## 📂 Estrutura do Projeto  
 
